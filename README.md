@@ -1,22 +1,28 @@
-# 📊 Project: Simple API 1
+# ESPN's NBA News API
 
-### Goal: Display data returned from an api
+> View news across the NBA sourced from ESPN.
 
-### How to submit your code for review:
+> <img src="./images/screenshot.png" alt="Screenshot of completed ESPN API App" width="500">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Table of Contents
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+1. [Tech Stack](#tech-stack)
+1. [Development](#development)
+   1. [ESPN API](#espn-api)
+   1. [Notes](#notes)
+
+## Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Development
+
+### ESPN API
+
+- No API key required. Open the app in your browser and instantly see recent news from around the NBA!
+
+### Notes
+
+Thanks to @akeaswaran for sharing this API (https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b)!
